@@ -71,6 +71,11 @@
     <Compile Include="Assets\3-1 Character Movement\ProblematicCharacterMove.cs" />
     <Compile Include="Assets\3-5 Melee Attack\Scripts\ShootingRobotHandIK.cs" />
     <Compile Include="Assets\3-2 Shooting\ShootController.cs" />
+    <Compile Include="Assets\3-6 NavMesh\1 Basics\MarkerController.cs" />
+    <Compile Include="Assets\3-6 NavMesh\2 Sample\NavMeshController.cs" />
+    <Compile Include="Assets\3-6 NavMesh\2 Sample\Generate.cs" />
+    <Compile Include="Assets\3-6 NavMesh\2 Sample\KyleController.cs" />
+    <Compile Include="Assets\3-6 NavMesh\1 Basics\PlayerControllerAi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free Stylized Skybox\ReadMe.txt" />
